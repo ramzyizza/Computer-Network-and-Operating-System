@@ -26,7 +26,8 @@
 ![image](https://github.com/ramzyizza/Computer-System-and-Networking-Lab/assets/89899122/41fd6a75-d233-489d-be38-5878fc960924)
 ![image](https://github.com/ramzyizza/Computer-System-and-Networking-Lab/assets/89899122/3c5ac69a-2702-4e91-b6c6-391c0a948316)
 
-3. Create a program that utilizes system calls in the C programming language to accept an input from the keyboard and save it to a file titled output.txt. Write the source code inside the PDF and Include the screenshots during the compilation and execution of that program, as well as the content of the output.txt file.
+2. Create a program that utilizes system calls in the C programming language to accept an input from the keyboard and save it to a file titled output.txt. Write the source code inside the PDF and Include the screenshots during the compilation and execution of that program, as well as the content of the output.txt file.
+
 ![image](https://github.com/ramzyizza/Computer-System-and-Networking-Lab/assets/89899122/f50d5360-eefd-41cc-9ea6-1aa3ffc21a59)
 ![image](https://github.com/ramzyizza/Computer-System-and-Networking-Lab/assets/89899122/69c944c5-5897-477f-bf97-0d7569599787)
 ![image](https://github.com/ramzyizza/Computer-System-and-Networking-Lab/assets/89899122/f9f01b78-a37a-43e5-8a12-0a427059a065)
