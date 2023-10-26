@@ -17,9 +17,11 @@
 
 ## Assignment
 1. Create a program X that runs an arbitrarily large finite amount of loop. Run the program and print the process table using ps. What is the state of the process X during execution? Send a signal to stop and continue process X. How does the state of process X change? Explain with some screenshots of this process!
+
 ![image](https://github.com/ramzyizza/Computer-System-and-Networking-Lab/assets/89899122/e1e99fe7-5ac2-4f99-8381-2ab91bb86c5f)
 ![image](https://github.com/ramzyizza/Computer-System-and-Networking-Lab/assets/89899122/9fa2a7aa-ebd0-4b87-ba7f-ff33654df262)
 
 2. Create a program X that runs an arbitrarily large finite amount of loop. Run the program and print the process table using ps. What is the state of the process X during execution? Send a signal to stop and continue process X. How does the state of process X change? Explain with some screenshots of this process.
+
 ![image](https://github.com/ramzyizza/Computer-System-and-Networking-Lab/assets/89899122/56ba15ef-eb90-4c78-ad8d-a6ae57531fa3)
 ![image](https://github.com/ramzyizza/Computer-System-and-Networking-Lab/assets/89899122/64614e31-0375-40e1-8c3c-ea70a2951957)
