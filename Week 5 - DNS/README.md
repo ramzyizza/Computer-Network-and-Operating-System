@@ -61,5 +61,5 @@ a. Show any step-by-step command you entered and the output (screenshot)
 ![image](https://github.com/ramzyizza/Computer-System-and-Networking-Lab/assets/89899122/3d835c3a-b9cf-41ba-983b-82656cba4cbf)	![image](https://github.com/ramzyizza/Computer-System-and-Networking-Lab/assets/89899122/77e79e3e-856f-45f9-a6fc-eabfc60c42c4)
 ![image](https://github.com/ramzyizza/Computer-System-and-Networking-Lab/assets/89899122/1355aff8-68e7-48b0-accc-fa68e4a39383)
 
-	b. In total, how many name servers did you visit? Also show the IP addresses of these servers.
-			 ![image](https://github.com/ramzyizza/Computer-System-and-Networking-Lab/assets/89899122/c1fdf39b-e04c-4cbb-bbad-4528a5832963)
+b. In total, how many name servers did you visit? Also show the IP addresses of these servers.
+	![image](https://github.com/ramzyizza/Computer-System-and-Networking-Lab/assets/89899122/c1fdf39b-e04c-4cbb-bbad-4528a5832963)
