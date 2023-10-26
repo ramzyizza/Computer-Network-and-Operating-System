@@ -42,20 +42,22 @@
 ![image](https://github.com/ramzyizza/Computer-System-and-Networking-Lab/assets/89899122/3abc31cd-41fc-497d-bc2e-42bb4a05eb79)
 
 4. Examine the DNS response message to the query message. How many “questions” does this DNS response message contain? How many “answers”?
+  
 ![image](https://github.com/ramzyizza/Computer-System-and-Networking-Lab/assets/89899122/151bd856-c1cf-4573-9d37-962e1dabbb4d)
 
-5. To what IP address is the DNS query message sent? Is this the IP address of your default local DNS server?
+7. To what IP address is the DNS query message sent? Is this the IP address of your default local DNS server?
 ![image](https://github.com/ramzyizza/Computer-System-and-Networking-Lab/assets/89899122/1826dd88-848f-4b26-9f6f-85473ad46de1)
 
-6. Examine the DNS query message. How many questions does the query have? Does the query message contain any “answers”?
+8. Examine the DNS query message. How many questions does the query have? Does the query message contain any “answers”?
 ![image](https://github.com/ramzyizza/Computer-System-and-Networking-Lab/assets/89899122/4aa2da7a-bef1-44dc-9314-9ced00a6b5f1)
 
-7. Examine the DNS response message. How many answers does the response have? What information is contained in the answers? How many additional resource records are returned? What additional information is included in these additional resource records?
+9. Examine the DNS response message. How many answers does the response have? What information is contained in the answers? How many additional resource records are returned? What additional information is included in these additional resource records?
 ![image](https://github.com/ramzyizza/Computer-System-and-Networking-Lab/assets/89899122/453f86a4-ed03-4a3d-92f3-2f890992e5a9)
 
 ## Assignment
 1. Find out how to run nslookup on Windows cmd (or the OS your PC is using). Then perform a iterative query manually to resolve dcse.fmipa.ugm.ac.id so that the IP address can be known without contacting the local DNS server.
 a. Show any step-by-step command you entered and the output (screenshot)
+
 ![image](https://github.com/ramzyizza/Computer-System-and-Networking-Lab/assets/89899122/3d835c3a-b9cf-41ba-983b-82656cba4cbf)	![image](https://github.com/ramzyizza/Computer-System-and-Networking-Lab/assets/89899122/77e79e3e-856f-45f9-a6fc-eabfc60c42c4)
 ![image](https://github.com/ramzyizza/Computer-System-and-Networking-Lab/assets/89899122/1355aff8-68e7-48b0-accc-fa68e4a39383)
 
