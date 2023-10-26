@@ -1,0 +1,4 @@
+Write down the answers to the following questions in a PDF file:
+
+In your home directory, create a text file titled myname.txt and write down your name inside it. Afterwards, execute and save the strace results for the copy (cp) command to copy the myname.txt file from your home directory to the Documents directory. Save the results of the strace command in a file titled copy.log. Then, filter the copy.log file to find the Documents path inside. Explains what the system calls in the filtering results did during the copy command. Please include the screenshots of what you did.  
+Create a program that utilises system calls in the C programming language to accept an input from the keyboard and save it to a file titled output.txt. Write the source code inside the PDF and Include the screenshots during the compilation and execution of that program, as well as the content of the output.txt file.
