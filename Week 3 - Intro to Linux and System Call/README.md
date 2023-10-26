@@ -5,6 +5,7 @@
 	- df
 	- hostname
 	- hostname -I
+
 ![image](https://github.com/ramzyizza/Computer-System-and-Networking-Lab/assets/89899122/58b4f109-51ea-4ecf-90ad-f50b1eb131c0)
 
 ## Lab Activity 2
