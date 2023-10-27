@@ -97,9 +97,11 @@ int main(){
 ```
 
 1. What is the result?
+
 ![image](https://github.com/ramzyizza/Computer-System-and-Networking-Lab/assets/89899122/cad418f3-8afc-491b-afb9-ce5d9a133449)
 
 2. Can the pointer still be used to store and print values? Why?
+
 ![image](https://github.com/ramzyizza/Computer-System-and-Networking-Lab/assets/89899122/fb4970e6-b8c6-4333-add5-d626d446b643)
 
 ## Assignment
